@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="com.mycompany.onlinertest">
+    <test name="OnlinerTaskTest" verbose="2">
+        <packages>
+            <package name="com.mycompany.onlinertest.test"/>
+        </packages>
+        <classes>
+            <class name="com.mycompany.onlinertest.test"></class>
+        </classes>
+    </test>
+</suite>

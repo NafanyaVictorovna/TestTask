@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.onlinertest.test.Tests
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 159.725 sec <<< FAILURE!
+loginTest(com.mycompany.onlinertest.test.Tests)  Time elapsed: 2.695 sec  <<< FAILURE!
+org.openqa.selenium.ElementNotVisibleException:  wrong data
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Nafanya', ip: '10.0.80.209', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_65'
+Driver info: driver.version: unknown
+	at com.mycompany.onlinertest.test.Tests.loginTest(Tests.java:60)
+loginTest(com.mycompany.onlinertest.test.Tests)  Time elapsed: 2.134 sec  <<< FAILURE!
+org.openqa.selenium.ElementNotVisibleException:  wrong data
+Build info: version: '2.53.0', revision: '35ae25b1534ae328c771e0856c93e187490ca824', time: '2016-03-15 10:43:46'
+System info: host: 'Nafanya', ip: '10.0.80.209', os.name: 'Windows 8.1', os.arch: 'amd64', os.version: '6.3', java.version: '1.8.0_65'
+Driver info: driver.version: unknown
+	at com.mycompany.onlinertest.test.Tests.loginTest(Tests.java:60)

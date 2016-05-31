@@ -1,0 +1,5 @@
+com\mycompany\onlinertest\pages\NotebookPage.class
+com\mycompany\onlinertest\pages\NewsPage.class
+com\mycompany\onlinertest\pages\SearchPage.class
+com\mycompany\onlinertest\test\Tests.class
+com\mycompany\onlinertest\pages\AutoLogin.class
